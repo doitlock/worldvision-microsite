@@ -7,9 +7,11 @@
 - **URL:** [https://wvcross.or.kr](https://wvcross.or.kr)
 
 🧩 **담당 역할**
+- 웹퍼블리싱 담당 PL / UI개발 기여도 100%
 - 반응형 레이아웃 퍼블리싱 (PC / 모바일)
-- 스크롤 기반 인터랙션 구현 (GSAP)
-- 페이지 내 앵커 이동 및 비주얼 강조 섹션 개발
+- 스크롤 기반 인터랙션 구현 (GSAP, Lenis)
+- 마크업/공통 UI 컴포넌트
+- 어드민 UI 웹퍼블리싱
 
 🛠️ **사용 기술**
 HTML, SCSS, JavaScript (Vanilla), GSAP(ScrollToPlugin, ScrollTrigger), Swiper, Lenis, Nice-select, bootstrap 5.3.3, Figma
